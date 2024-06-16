@@ -3,8 +3,6 @@
 
 ###### 영양제 <mark>재고 관리 및 알림</mark> 앱 서비스
 
-![pillin](../ImageFile/noback_login_pillin_logo.png)
-
 ![pages](../ImageFile/pages.png)
 
 # 💊개발 환경💊
