@@ -3,7 +3,7 @@
 
 ###### 영양제 <mark>재고 관리 및 알림</mark> 앱 서비스
 
-![pages](../ImageFile/pages.png)
+![pages](./ImageFile/pages.png)
 
 # 💊개발 환경💊
 
@@ -19,7 +19,7 @@
 
 | 메인 페이지 |영양제 등록 페이지|복용 이력 페이지|영양제 알람 등록 페이지|분석 리포트 페이지|검색 페이지
 |:----:|:----:|:----:|:----:|:----:|:----:|
-|![main](../ImageFile/main.gif)|![regist](../ImageFile/regist.gif)|![calendar](../ImageFile/calendar.gif)|![push](../ImageFile/push.gif)|![report_rank](../ImageFile/report_rank.gif)|![search](../ImageFile/search.gif)|
+|![main](./ImageFile/main.gif)|![regist](./ImageFile/regist.gif)|![calendar](./ImageFile/calendar.gif)|![push](./ImageFile/push.gif)|![report_rank](./ImageFile/report_rank.gif)|![search](./ImageFile/search.gif)|
 
 # 💊주요 기능💊
 
@@ -80,13 +80,13 @@
 [기능 명세서 바로가기](https://bonkri.notion.site/9d195c3928794c568cdd1f5841666a24)
 
 ### ERD
-![ERD](../ImageFile/ERD.png)
+![ERD](./ImageFile/ERD.png)
 
 ### 아키텍처
-![architecture](../ImageFile/architecture.png)
+![architecture](./ImageFile/architecture.png)
 
 ### UCC
 [UCC 바로가기](https://bonkri.notion.site/Pillin-14ca2a8ea28447b1998caf2f3558d47b)
 
 # 💊팀원 소개💊
-![team](../ImageFile/team.png)
+![team](./ImageFile/team.png)
